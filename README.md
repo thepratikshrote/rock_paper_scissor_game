@@ -34,7 +34,7 @@ The repository contains the following files:
 1. index.html: The main HTML file that displays the game interface.
 2. style.css: The CSS file that styles the game elements.
 
-3. script.js: The JavaScript file that implements the game logic.
+3. app.js: The JavaScript file that implements the game logic.
 4. README.md: The README file providing information about the project.
 ## Acknowledgements
 
