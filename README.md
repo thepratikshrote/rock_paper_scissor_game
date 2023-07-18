@@ -36,6 +36,15 @@ The repository contains the following files:
 
 3. app.js: The JavaScript file that implements the game logic.
 4. README.md: The README file providing information about the project.
+
+## Screenshots
+
+![image](https://github.com/thepratikshrote/rock_paper_scissor_game/assets/139691671/6a3f6c8c-477c-44bf-8429-089d45b5faa9)
+
+![image](https://github.com/thepratikshrote/rock_paper_scissor_game/assets/139691671/7c8a2b7c-8114-4fc7-b668-52c654c46db6)
+
+![image](https://github.com/thepratikshrote/rock_paper_scissor_game/assets/139691671/6e8e7e7e-460a-4cca-9a4d-2db0e23d8566)
+
 ## Acknowledgements
 
 The Rock Paper Scissors game is a classic and popular game enjoyed by many. This implementation is inspired by the countless versions available online, and it's a fun way to learn and practice HTML, CSS, and JavaScript.
